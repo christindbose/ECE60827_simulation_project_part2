@@ -84,7 +84,7 @@ ece695.part2.
 
 ## What to hand in.
 
-Submit a 3-page max pdf (call this part2.report.pdf and commit it in the assignment repo).
+Submit a 3-page max pdf (call this part2_report_<yourname>.pdf and commit it in the assignment repo).
 
 You must have 3 plots for CTA/SM vs time for: Baseline, 8Cluster, FlatScheduler, Greedy Scheduler
 
